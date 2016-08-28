@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER Richard Laub <rila3928@colorado.edu>
+MAINTAINER Richard Laub <Richard.Laub@colorado.edu>
 
 RUN apt-get update --fix-missing && apt-get install -y wget bzip2 git
 
